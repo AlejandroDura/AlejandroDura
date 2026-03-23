@@ -30,12 +30,10 @@ I'm passionate about blockchain, decentralized systems, smart contracts and 3D E
 
 ## 📌 Featured Projects
   - 🔗 [SimpleDAO security & gas optimization audit](https://github.com/AlejandroDura/simple-dao-security-and-gas-optimization)
-    Solidity | Foundry | Ethereum
-    We perform a security and gas costs audit to a smart contract application called SimpleDAO.
+    | Solidity | Foundry | Ethereum | We perform a security and gas costs audit to a smart contract application called SimpleDAO.
 
   - 🔗 [Distributed key-value log](https://github.com/AlejandroDura/ds-distributed-key-value-log)
-  C++ | Phyton
-  Making from scratch a distributed system based on leader-follower pattern. We use a key-value log as the data.
+  | C++ | Phyton | Making from scratch a distributed system based on leader-follower pattern. We use a key-value log as the data.
 
 ## 📚 Currently Learning
  - Distributed systems
