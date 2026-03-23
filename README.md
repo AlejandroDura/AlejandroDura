@@ -35,6 +35,10 @@ I'm passionate about blockchain, decentralized systems, smart contracts and 3D E
   - 🔗 [Distributed key-value log](https://github.com/AlejandroDura/ds-distributed-key-value-log)
   | C++ | Phyton | Making from scratch a distributed system based on leader-follower pattern. We use a key-value log as the data.
 
+  - 🔗 [Unreal Engine FPS AI Enemy](https://youtu.be/SnzS9yfGUNo)
+    
+  - 🔗 [Unreal Engine Artificial Intelligence Showcase](https://youtu.be/gaSq3stC6p4)
+
 ## 📚 Currently Learning
  - Distributed systems
 
